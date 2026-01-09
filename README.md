@@ -4,7 +4,7 @@
 
 感谢ChatGPT等大模型的支持，你们是我叠
 
-我说09zzc、10kk3、11rxxx是最吊的三个人谁同意谁反对（其实并不是）
+我说09zzc、10kk3、12rxxx是最吊的三个人谁同意谁反对（其实并不是）
 
 made na ge cheng xu she ji lao shi zen me jiu zhe me sha bi
 
