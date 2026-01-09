@@ -1,0 +1,10 @@
+﻿  admin.cpp
+  file.cpp
+  global.cpp
+  interface.cpp
+  main.cpp
+  studentcard.cpp
+E:\Buildings\c\cateen_manage_system_v1.6\cateen_manage_system_v1.6\studentcard.cpp(76,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  tool.cpp
+  正在生成代码...
+  cateen_manage_system_v1.6.vcxproj -> E:\Buildings\c\cateen_manage_system_v1.6\x64\Debug\cateen_manage_system_v1.6.exe
